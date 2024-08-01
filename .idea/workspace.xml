@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e364ef0f-1813-41ff-b6bd-4f285a8ab072" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/escala.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/grilla.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/punto_referencia.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/puntos.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tesis_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tesis_.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/puntos.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +86,7 @@
       <workItem from="1722451245226" duration="591000" />
       <workItem from="1722451846824" duration="297000" />
       <workItem from="1722452151521" duration="4398000" />
-      <workItem from="1722458372623" duration="13818000" />
+      <workItem from="1722458372623" duration="14771000" />
     </task>
     <servers />
   </component>
