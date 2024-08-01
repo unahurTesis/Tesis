@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e364ef0f-1813-41ff-b6bd-4f285a8ab072" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/escala.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/grilla.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/punto_referencia.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/puntos.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/tesis_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tesis_.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datos/dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datos/puntos.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +41,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/adrian/PycharmProjects/Tesis&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "/home/adrian/PycharmProjects/Tesis/datos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets.lite",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datos" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/datos/eliminar" />
+      <recent name="$PROJECT_DIR$/datos" />
       <recent name="C:\Users\agyan\PycharmProjects\tesis_" />
     </key>
   </component>
@@ -75,6 +87,16 @@
       <workItem from="1721252352185" duration="270000" />
       <workItem from="1721252969986" duration="235000" />
       <workItem from="1721253374340" duration="1642000" />
+      <workItem from="1721263936645" duration="2940000" />
+      <workItem from="1721266886753" duration="82000" />
+      <workItem from="1721679922676" duration="62000" />
+      <workItem from="1722287139696" duration="2518000" />
+      <workItem from="1722289667903" duration="3647000" />
+      <workItem from="1722293323204" duration="636000" />
+      <workItem from="1722451245226" duration="591000" />
+      <workItem from="1722451846824" duration="297000" />
+      <workItem from="1722452151521" duration="4398000" />
+      <workItem from="1722458372623" duration="13818000" />
     </task>
     <servers />
   </component>
