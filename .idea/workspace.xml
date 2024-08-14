@@ -5,112 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e364ef0f-1813-41ff-b6bd-4f285a8ab072" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/INFORME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/red.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tesis_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tesis_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/limpieza.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/procesamiento_datos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/df.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/df_salida.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/eliminar/df_original.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/eliminar/matriz_grilla.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/eliminar/matriz_grilla_final.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/eliminar/matriz_grilla_inicio.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datos/eliminar/train.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon10_Seccion 1 horizontal C10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon10_Seccion 3 horizontal C10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon10_Seccion 4 horizontal C10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon11_Seccion 1 horizontal C11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon11_Seccion 3 horizontal C11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon11_Seccion 4 horizontal C11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon12_Seccion 1 horizontal C12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon12_Seccion 3 horizontal C12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon12_Seccion 5 horizontal C12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon13_Seccion 1 horizontal C13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon13_Seccion 3 horizontal C13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon13_Seccion 4 horizontal C13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon14_Seccion 1 horizontal C14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon14_Seccion 3 horizontal C14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon14_Seccion 4 horizontal C14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon16_Seccion 1 horizontal C16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon16_Seccion 3 horizontal C16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon16_Seccion 5 horizontal C16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon17_Seccion 1 horizontal C17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon17_Seccion 2 horizontal C17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon17_Seccion 3 horizontal C17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon18_Seccion 2 horizontal C18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon18_Seccion 3 horizontal C18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon18_Seccion 4 horizontal C18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon19_Seccion 1 horizontal C19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon19_Seccion 4 horizontal C19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon19_Seccion 6 horizontal C19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon1_Seccion 1 horizontal C1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon1_Seccion 3 horizontal C1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon1_Seccion 5 horizontal C1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon2_Seccion 1 horizontal C2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon2_Seccion 3 horizontal C2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon2_Seccion 4 horizontal C2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon3_Seccion 1 horizontal C3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon3_Seccion 3 horizontal C3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon3_Seccion 4 horizontal C3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon4_Seccion 1 horizontal C4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon4_Seccion 3 horizontal C4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon4_Seccion 4 horizontal C4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon5_Seccion 1 horizontal C5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon5_Seccion 4 horizontal C5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon5_Seccion 7 horizontal C5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon6_Seccion 1 horizontal C6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon6_Seccion 4 horizontal C6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon6_Seccion 6 horizontal C6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon7_Seccion 1 horizontal C7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon7_Seccion 2 horizontal C7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon7_Seccion 3 horizontal C7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon8_Seccion 1 horizontal C8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon8_Seccion 5 horizontal C8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon8_Seccion 6 horizontal C8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon9_Seccion 1 horizontal C9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon9_Seccion 4 horizontal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/procesadas/Cordon9_Seccion 6 horizontal C9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon10_Seccion 1 horizontal C10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon11_Seccion 1 horizontal C11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon12_Seccion 1 horizontal C12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon13_Seccion 1 horizontal C13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon14_Seccion 1 horizontal C14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon16_Seccion 1 horizontal C16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon17_Seccion 1 horizontal C17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon18_Seccion 2 horizontal C18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon19_Seccion 1 horizontal C19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon1_Seccion 1 horizontal C1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon2_Seccion 1 horizontal C2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon3_Seccion 1 horizontal C3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon4_Seccion 1 horizontal C4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon5_Seccion 1 horizontal C5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon6_Seccion 1 horizontal C6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon7_Seccion 1 horizontal C7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon8_Seccion 1 horizontal C8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/Cordon9_Seccion 1 horizontal C9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon10_Seccion 1 horizontal C10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon11_Seccion 1 horizontal C11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon12_Seccion 1 horizontal C12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon13_Seccion 1 horizontal C13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon14_Seccion 1 horizontal C14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon16_Seccion 1 horizontal C16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon17_Seccion 1 horizontal C17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon18_Seccion 2 horizontal C18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon19_Seccion 1 horizontal C19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon1_Seccion 1 horizontal C1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon2_Seccion 1 horizontal C2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon3_Seccion 1 horizontal C3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon4_Seccion 1 horizontal C4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon5_Seccion 1 horizontal C5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon6_Seccion 1 horizontal C6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon7_Seccion 1 horizontal C7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon8_Seccion 1 horizontal C8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/procesada_Cordon9_Seccion 1 horizontal C9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagenes/seleccionadas/procesadas/resultados_procesamiento.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datos/eliminar/df.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datos/preprocesados/df.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datos/eliminar/escala.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datos/preprocesados/escala.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datos/eliminar/punto_referencia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/datos/preprocesados/punto_referencia.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/final.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/puntos.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/puntos.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/red.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/red.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +51,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -157,6 +60,7 @@
       <recent name="$PROJECT_DIR$/datos" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\agyan\Documents\Tesis\Tesis\datos\eliminar" />
       <recent name="$PROJECT_DIR$/datos/eliminar" />
       <recent name="$PROJECT_DIR$/datos" />
       <recent name="C:\Users\agyan\PycharmProjects\tesis_" />
@@ -196,7 +100,11 @@
       <workItem from="1722514814610" duration="5790000" />
       <workItem from="1722520769176" duration="333000" />
       <workItem from="1722521164995" duration="9315000" />
-      <workItem from="1723024411943" duration="4773000" />
+      <workItem from="1723024411943" duration="20828000" />
+      <workItem from="1723637848508" duration="1072000" />
+      <workItem from="1723639675265" duration="1704000" />
+      <workItem from="1723641571357" duration="3814000" />
+      <workItem from="1723646411680" duration="1573000" />
     </task>
     <servers />
   </component>
